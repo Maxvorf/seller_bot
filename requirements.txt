@@ -1,0 +1,11 @@
+# Основная библиотека LangChain
+langchain>=0.0.101
+
+# Дополнительные компоненты сообщества (vectorstores, callbacks и пр.)
+langchain-community>=0.0.4
+
+# Поддержка модели Ollama (LLM и Embeddings)
+langchain-ollama>=0.0.3
+
+# ChromaDB — векторное хранилище для поиска
+chromadb>=0.3.22
